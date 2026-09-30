@@ -1,0 +1,23 @@
+.app {
+  max-width: 640px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+  font-family: system-ui, sans-serif;
+}
+
+section {
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+}
+
+label {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.error {
+  color: #b00020;
+  font-weight: 600;
+}
